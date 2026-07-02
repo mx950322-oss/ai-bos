@@ -1,19 +1,19 @@
 # Mission
 
-**File:** `mission/MISSION.md`
-**Version:** v0.1
-**Status:** Draft
+**File:** `docs/01-foundation/mission/MISSION.md`  
+**Version:** v0.1  
+**Status:** Draft  
 **Owner:** muxing dai
 
 ---
 
-# 1. Mission Statement
+## 1. Mission Statement
 
 打造一套能够持续发现、验证、复制和放大商业机会的 AI 商业体系，让个人和未来团队都能以最低成本、最快速度，把一个想法变成真实价值，并不断沉淀可复用的能力资产。
 
 ---
 
-# 2. Why This Exists
+## 2. Why This Exists
 
 AI BOS 存在的目的，不是为了管理某一个项目，也不是为了保存 Prompt。
 
@@ -35,18 +35,18 @@ AI BOS 存在的目的，是帮助 Owner 和未来团队持续完成以下循环
 
 ---
 
-# 3. Core Belief
+## 3. Core Belief
 
 AI BOS 的核心信念：
 
-> 一次成功的项目不是终点。
+> 一次成功的项目不是终点。  
 > 真正重要的是把成功背后的方法、流程、判断标准和工具沉淀为可复用资产。
 
 因此，AI BOS 不是为了追逐单次机会，而是为了不断提高发现机会、验证机会和复制机会的能力。
 
 ---
 
-# 4. What Counts as Progress
+## 4. What Counts as Progress
 
 在 AI BOS 中，进展不只等于收入。
 
@@ -63,7 +63,7 @@ AI BOS 的核心信念：
 
 ---
 
-# 5. What Does Not Fit the Mission
+## 5. What Does Not Fit the Mission
 
 以下事情不符合 AI BOS 的 Mission：
 
@@ -78,11 +78,11 @@ AI BOS 的核心信念：
 
 ---
 
-# 6. Mission Test
+## 6. Mission Test
 
 任何新的 Opportunity、Experiment、Framework 或重大系统修改，都必须通过 Mission Test。
 
-## Mission Test Questions
+### Mission Test Questions
 
 1. 这件事是否帮助我们发现、验证、复制或放大商业机会？
 2. 这件事是否能沉淀为未来可复用资产？
@@ -94,7 +94,7 @@ AI BOS 的核心信念：
 
 ---
 
-# 7. Relationship to Money
+## 7. Relationship to Money
 
 赚钱是 AI BOS 的重要目标，但不是唯一目标。
 
@@ -106,7 +106,7 @@ AI BOS 不追求一次性赚钱，而追求：
 
 ---
 
-# 8. Relationship to AI Agents
+## 8. Relationship to AI Agents
 
 AI Agent 是实现 Mission 的工具，不是 Mission 本身。
 
@@ -116,7 +116,7 @@ AI Agent 是实现 Mission 的工具，不是 Mission 本身。
 
 ---
 
-# 9. Relationship to Experiments
+## 9. Relationship to Experiments
 
 所有 Workspace 本质上都是商业实验。
 
@@ -128,7 +128,7 @@ AI Agent 是实现 Mission 的工具，不是 Mission 本身。
 
 ---
 
-# 10. Mission Versioning
+## 10. Mission Versioning
 
 Mission 是 AI BOS 的最高层文档之一，不允许随意修改。
 
@@ -148,8 +148,8 @@ Release
 
 ---
 
-# 11. Current Status
+## 11. Current Status
 
 当前 Mission 版本为 v0.1 Draft。
 
-当 AI BOS 的基础架构、Constitution、Governance 和 Opportunity Engine 完成第一轮设计后，本文件可升级为 v1.0。
+当 AI BOS 的基础架构、Constitution、Governance 和 Documentation System 完成第一轮设计后，本文件可升级为 v1.0。
