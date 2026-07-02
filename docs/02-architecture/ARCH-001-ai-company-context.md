@@ -1,4 +1,4 @@
-# ARCH-001 — AI Company Context
+# ARCH-001 — AI Venture Studio Context
 
 **File:** `docs/02-architecture/ARCH-001-ai-company-context.md`  
 **Version:** v0.1  
@@ -9,7 +9,7 @@
 
 ## 1. Purpose
 
-本架构定义 AI Company 的最高层结构，以及各核心对象之间的关系。
+本架构定义 AI Venture Studio 的最高层结构，以及各核心对象之间的关系。
 
 本文件不描述内部实现，只描述系统边界与职责。
 
@@ -17,9 +17,9 @@
 
 ## 2. Core Principle
 
-AI Company 是商业组织。
+AI Venture Studio 是商业组织。
 
-AI BOS 是 AI Company 的操作系统。
+AI BOS 是 AI Venture Studio 的操作系统。
 
 AI Agent 是执行者。
 
@@ -35,7 +35,7 @@ Asset 是长期沉淀结果。
                     CEO（Owner）
                           │
                           ▼
-                    AI Company
+                    AI Venture Studio
                           │
       ┌───────────────────┼───────────────────┐
       │                   │                   │
@@ -81,7 +81,7 @@ CEO 不负责具体执行。
 
 ---
 
-### Layer 2 — AI Company
+### Layer 2 — AI Venture Studio
 
 负责：
 
@@ -90,7 +90,7 @@ CEO 不负责具体执行。
 - Governance
 - Organization
 
-AI Company 是最高商业实体。
+AI Venture Studio 是最高商业实体。
 
 ---
 
@@ -110,7 +110,7 @@ Opportunity Portfolio 不负责执行。
 
 ### Layer 4 — Opportunity Engine
 
-Opportunity Engine 是 AI Company 的唯一正式入口。
+Opportunity Engine 是 AI Venture Studio 的唯一正式入口。
 
 职责：
 
@@ -200,12 +200,12 @@ AI BOS 永远绑定 Role，不绑定模型。
 
 ## 5. Architecture Rules
 
-1. AI Company 高于 AI BOS。
+1. AI Venture Studio 高于 AI BOS。
 2. AI BOS 高于任何 Agent。
 3. Opportunity 必须先进入 Portfolio。
 4. Opportunity Engine 是唯一正式入口。
 5. Workspace 只能由 AI BOS 创建。
-6. Asset 永远属于 AI Company，不属于单一 Workspace。
+6. Asset 永远属于 AI Venture Studio，不属于单一 Workspace。
 7. Agent 可替换，Role 不可替换。
 
 ---

@@ -1,10 +1,14 @@
 # AI BOS
 
+**AI BOS is the Operating System of AI Venture Studio.**
+
+**AI BOS 是 AI Venture Studio 的商业操作系统。**
+
 AI BOS（AI Business Operating System）是一套服务于 **AI Venture Studio** 的商业操作系统。
 
 它不是聊天机器人，不是 Prompt 集合，不是普通项目管理工具，也不是单一知识库。
 
-AI BOS 的目标是帮助个人与未来团队持续发现、验证、复制、放大商业机会，并把每一次实验沉淀为可复用资产。
+AI BOS 的目标是作为 Operating System，帮助 AI Venture Studio 持续发现、验证、复制、放大商业机会，并把每一次实验沉淀为可复用资产。
 
 ---
 
@@ -19,6 +23,8 @@ AI BOS is an AI Venture Studio Operating System that continuously discovers, val
 ---
 
 ## 2. Mission
+
+这是 AI Venture Studio 的 Mission。
 
 打造一套能够持续发现、验证、复制和放大商业机会的 AI 商业体系，让个人和未来团队都能以最低成本、最快速度，把一个想法变成真实价值，并不断沉淀可复用的能力资产。
 
@@ -130,7 +136,7 @@ AI BOS 只绑定 Role，不绑定具体模型。模型可以替换，Role 保持
 
 ## 9. Governance
 
-AI BOS 采用四层治理模型：
+AI Venture Studio 采用四层治理模型，AI BOS 负责执行：
 
 ```text
 Mission Governance

@@ -3,7 +3,7 @@
 **File:** `docs/01-foundation/mission/MISSION.md`  
 **Version:** v0.1  
 **Status:** Draft  
-**Owner:** muxing dai
+**Owner:** AI Venture Studio
 
 ---
 
@@ -65,7 +65,7 @@ AI BOS 的核心信念：
 
 ## 5. What Does Not Fit the Mission
 
-以下事情不符合 AI BOS 的 Mission：
+以下事情不符合 AI Venture Studio 的 Mission：
 
 1. 只追逐短期热点，但不能沉淀长期能力；
 2. 没有真实需求证据的闭门造车；

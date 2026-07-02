@@ -1,4 +1,4 @@
-# AI BOS Governance
+# AI Venture Studio Governance
 
 **File:** `docs/06-governance/GOVERNANCE.md`  
 **Version:** v0.1  
@@ -9,7 +9,8 @@
 
 ## 1. Purpose
 
-Governance（治理层）负责保证 AI Company 的所有决策符合 Mission、Constitution 和长期发展方向。
+Governance 是 AI Venture Studio 的治理体系，负责保证 AI Venture Studio 的所有决策符合 Mission、Constitution 和长期发展方向。
+AI BOS 负责执行 Governance。
 
 Governance 不负责执行任务。
 
@@ -48,7 +49,7 @@ Execution Governance
 
 ### 核心问题
 
-- 是否符合 AI Company Mission？
+- 是否符合 AI Venture Studio Mission？
 - 是否符合长期价值？
 - 是否符合可持续发展方向？
 - 是否有助于资产沉淀？
@@ -171,7 +172,7 @@ Proposal → Review → ADR → Release
 
 ## 8. Governance Principles
 
-AI BOS Governance 永远遵守：
+AI Venture Studio Governance 永远遵守：
 
 1. Mission 优先；
 2. 长期价值优先；

@@ -51,6 +51,8 @@ AI BOS 是一套服务于 **AI Venture Studio** 的商业操作系统。
 
 AI BOS is an AI Venture Studio Operating System that continuously discovers, validates, scales, and compounds business opportunities.
 
+AI BOS is the core operating system of AI Venture Studio.
+
 中文定义：
 
 > AI BOS 是一套能够持续发现、验证、放大并沉淀商业机会的 AI 创业工作室操作系统。
@@ -130,7 +132,7 @@ AI BOS 围绕以下核心对象运行：
 - Role
 - Governance
 
-这些对象共同构成 AI Company 的运行基础。
+这些对象共同构成 AI Venture Studio 的运行基础。
 
 ---
 

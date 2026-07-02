@@ -9,7 +9,11 @@
 
 ## 1. Purpose
 
-Constitution 是 AI Company 与 AI BOS 的最高运行规则。
+Constitution 是 AI Venture Studio 与 AI BOS 的最高运行规则。
+
+This Constitution belongs to AI Venture Studio.
+
+AI BOS is responsible for implementing this Constitution.
 
 它定义的是长期原则，而不是具体流程。
 
@@ -74,7 +78,7 @@ Role 是长期资产。
 
 ## Constitution #6：Mission 高于一切
 
-Mission 是 AI Company 的最高原则。
+Mission 是 AI Venture Studio 的最高原则。
 
 任何 Opportunity、Experiment、Framework 或系统修改，都必须符合 Mission。
 
@@ -157,7 +161,7 @@ AI BOS 的最终目标不是完成更多项目。
 
 ## Amendment Rule
 
-Constitution 属于 AI Company 的最高层文档。
+Constitution 属于 AI Venture Studio 的最高层文档。
 
 任何修改必须满足以下流程：
 
